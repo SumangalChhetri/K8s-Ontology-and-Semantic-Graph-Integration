@@ -1,0 +1,3 @@
+deployment,pod
+argocd-redis,argocd-redis-c6b47cdbd-f6lbp
+nginx,nginx-bf5d5cf98-rkzv2

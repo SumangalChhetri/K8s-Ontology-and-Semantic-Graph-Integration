@@ -1,0 +1,8 @@
+- deployment: argocd-redis
+  namespace: argocd
+  pod: argocd-redis-c6b47cdbd-f6lbp
+  type: Deployment-Pod
+- deployment: nginx
+  namespace: default
+  pod: nginx-bf5d5cf98-rkzv2
+  type: Deployment-Pod
